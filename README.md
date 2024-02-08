@@ -47,9 +47,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/cauyatech/cauyatech/output/snake.svg" alt="Snake animation" />
-
-###
