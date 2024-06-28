@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div align="center">
-  <iframe src="https://gifer.com/embed/1uCQ" width=480 height=269.760 frameBorder="0" allowFullScreen></iframe>
+  <img height="200" src="https://i.gifer.com/1uCQ.gif"  />
 </div>
 
 ###
