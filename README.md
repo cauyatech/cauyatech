@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:54%;position:relative;"><iframe src="https://giphy.com/embed/5psaWjwlPW2ju" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+  <iframe src="https://giphy.com/embed/5psaWjwlPW2ju" width="480" height="259" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </div>
 
 ###
